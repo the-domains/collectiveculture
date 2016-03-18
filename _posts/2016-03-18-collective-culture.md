@@ -48,10 +48,10 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/collectivecult'
+isBasedOnUrl: 'https://soundcloud.com/collectivecult/sets'
 title: Collective Culture
-datePublished: '2016-03-18T02:04:36.820Z'
-dateModified: '2016-03-18T02:04:02.304Z'
+datePublished: '2016-03-18T02:09:07.182Z'
+dateModified: '2016-03-18T02:06:53.372Z'
 sourcePath: _posts/2016-03-18-collective-culture.md
 published: true
 inFeed: true
@@ -61,4 +61,4 @@ _type: AudioObject
 _context: 'http://schema.org'
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Fusers%252F158357322%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fcollectivecult&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Favatars-000150497840-x83zaj-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Fusers%252F158357322%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fcollectivecult%2Fsets&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Favatars-000150497840-x83zaj-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>

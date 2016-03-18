@@ -1,6 +1,6 @@
 name: CollectiveCulture
 favicon: null
-layout_spectrum: 0.9250233911443502
+layout_spectrum: 1
 typography_spectrum: 0.19463845691643655
 title: Collective Culture
 cta:
@@ -22,8 +22,8 @@ color:
     - '#563260'
     - '#abaab2'
     - '#ad6895'
-  brandStrength: 0.75
+  brandStrength: 0.625
   lightness: 0.3792352231685072
-  saturation: 0.5557939794380218
-  rhythmicContrast: 0.9283008268103004
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
